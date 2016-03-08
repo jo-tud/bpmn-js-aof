@@ -1,0 +1,1 @@
+module.exports =  {aof: require('./resources/aof')};
