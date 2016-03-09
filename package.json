@@ -1,10 +1,7 @@
 {
   "name": "bpmn-js-aof",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple properties panel for bpmn-js",
-  "scripts": {
-    "test": "grunt test"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/korbinianHoerfurter/bpmn-js-aof"
