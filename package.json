@@ -11,7 +11,7 @@
     "aof"
   ],
   "author": {
-    "name": "Korbinian Hörfurter"
+    "name": "Korbinian HÃ¶rfurter"
   },
   "license": "MIT",
   "devDependencies": {
@@ -31,7 +31,7 @@
     "jquery": "^2.1.1",
     "lodash": "^3.0.0",
     "inherits":"^2.0.1",
-    "bpmn-js-properties-panel": "korbinianHoerfurter/bpmn-js-properties-panel",
+    "bpmn-js-properties-panel": "jo-tud/bpmn-js-properties-panel",
     "md5":"^2.0.0"
   }
 }
