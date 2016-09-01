@@ -4,7 +4,7 @@
   "description": "A simple properties panel for bpmn-js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/korbinianHoerfurter/bpmn-js-aof"
+    "url": "https://github.com/jo-tud/bpmn-js-aof"
   },
   "keywords": [
     "bpmn-js",
